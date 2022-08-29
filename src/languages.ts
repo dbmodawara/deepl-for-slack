@@ -170,5 +170,4 @@ export const reactionToLang: any = {
   "yt": "fr",
   "zm": "en",
   "zw": "en",
-  "id": "en",
 };
