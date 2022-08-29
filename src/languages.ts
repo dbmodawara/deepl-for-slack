@@ -10,6 +10,7 @@ export const langToReaction: any = {
   "pl": ":flag-pl:",
   "pt": ":flag-pt:",
   "ru": ":flag-ru:",
+  "id": ":flag-id:",
 };
 
 export const langToName: any = {
@@ -24,6 +25,7 @@ export const langToName: any = {
   "pl": "Polish",
   "pt": "Portuguese",
   "ru": "Russian",
+  "id": "Indonesian",
 };
 
 export const reactionToLang: any = {
@@ -168,4 +170,5 @@ export const reactionToLang: any = {
   "yt": "fr",
   "zm": "en",
   "zw": "en",
+  "id": "en",
 };
